@@ -163,7 +163,6 @@ function main() {
     } else {
       timer.innerHTML = clvl;
     }
-    console.log(newArray);
   }, 1000);
 }
 startBtn.onclick = () => {
